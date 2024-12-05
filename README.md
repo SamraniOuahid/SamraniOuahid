@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samraniouahid&show_icons=true&locale=en&layout=compact" alt="samraniouahid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samraniouahid&show_icons=true&locale=en" alt="samraniouahid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samraniouahid&" alt="samraniouahid" /></p>
+
+
