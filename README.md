@@ -20,7 +20,7 @@
 <p><a href="https://www.buymeacoffee.com/ouahid samrani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ouahid samrani" /></a><a href="https://ko-fi.com/ouahid samrani"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ouahid samrani" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samraniouahid&show_icons=true&locale=en&layout=compact" alt="samraniouahid" /></p>
-
+<p/><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamraniOuahid&theme=dark&background=000000" alt="GitHub Streak" /></p>
 
 
 
