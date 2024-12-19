@@ -23,4 +23,24 @@
 <p/><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamraniOuahid&theme=dark&background=000000" alt="GitHub Streak" /></p>
 
 
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
+<table>
+  <tr>
+    <td >
+      <img src="https://github-profile-trophy.vercel.app/?username=SamraniOuahid&theme=onedark&row=2&column=4" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamraniOuahid&layout=compact&langs_count=5&card_width=500&theme=dracula" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamraniOuahid&theme=dark&background=000000" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SamraniOuahid&show_icons=true&theme=neon" alt="Vercel Stats" /></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 
