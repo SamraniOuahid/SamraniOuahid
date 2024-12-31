@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samraniouahid" alt="samraniouahid" /></a> </p>
 
+![MASTER-HEAD](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 - 🔭 I’m currently working on **Leon**
 
 <h3 align="left">Connect with me:</h3>
