@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ouahid</h1>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=35ADB0&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Samrani+Ouahid!;+Welcome+to+my+GitHub+profile!" />
-<h3 align="center">A passionate frontend developer from Morocco...</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samraniouahid&label=Profile%20views&color=0e75b6&style=flat" alt="samraniouahid" /> </p>
 
