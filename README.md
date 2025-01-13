@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamraniOuahid&theme=dark&background=000000" alt="GitHub Streak" /></td>
+    <td><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamraniOuahid&theme=react&border_radius=10" alt="streak stats"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SamraniOuahid&show_icons=true&theme=neon" alt="Vercel Stats" /></td>
   </tr>
 </table>
