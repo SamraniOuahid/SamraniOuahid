@@ -19,13 +19,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,tailwind,bootstrap" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,php" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,cs,js" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nodejs,django,spring,express,flutter,mongodb,mysql" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,visualstudio,eclipse,docker,postman,matlab" />&nbsp;
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,pr,ps,notion" />&nbsp;
 </div> 
 
 
